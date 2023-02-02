@@ -80,14 +80,14 @@
 <!--<h1>My experience</h1>-->
 
 <!-- EXPERIENCE I -->
-<h2 align="left">Project Kujali</h2>
+<!--<h2 align="left">Project Kujali</h2>
 
 <p align="right"><b>2023</b></p>
 
 <p>
   Kujali is a financial manager that allows businesses to plan for their spending through financial forecasts, and then to track their actual expenditure against what was forecasted.
 </p>
-<p>
+<p> -->
   <!-- Add summary of your own contributions -->
   I have developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
 </p>
