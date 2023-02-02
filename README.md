@@ -28,7 +28,7 @@
   <a href="https://twitter.com/kolelaodan" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Odhiambo Dan's Twitter" /></a> 
   <span>&nbsp;</span>
   <!-- Stack overflow -->
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a> 
+  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/gmail-FE7A16?logo=gmail&logoColor=white&style=for-the-badge)" alt="Odhiambo Dan's Gmail" /></a> 
 
   <!-- Other badges -->
   <!-- 
