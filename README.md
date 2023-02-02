@@ -1,5 +1,3 @@
-Hi👋 there.
-I am an Android Developer(Kotlin)
 <!-- 
   Welcome to iTalanta Open Source!
   This repository will act as your home repo for the iTalanta/Moringa open source intern/externship.
@@ -15,7 +13,7 @@ I am an Android Developer(Kotlin)
 <h1 align="center">Hi 👋, I'm Odhiambo Dan</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">An Android Developer(Kotlin) open-source!</h3>
+<h3 align="center">An Android Developer(Kotlin)</h3>
 
 <br/>
 
