@@ -57,7 +57,7 @@
 
 <!--### My work
 
-🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
+<!--🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
 <!-- OR -->
 🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
 
