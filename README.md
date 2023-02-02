@@ -89,7 +89,7 @@
 </p>
 <p> -->
   <!-- Add summary of your own contributions -->
-  I have developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
+ <!-- I have developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
 </p>
 <br/> -->
 
