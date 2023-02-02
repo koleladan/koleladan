@@ -57,9 +57,9 @@
 
 <!--### My work
 
-<!--🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
+<!--🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)-->
 <!-- OR -->
-🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
+<!--🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)-->
 
 <!-- TODO: Update at the end of every day with your  -->
 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
