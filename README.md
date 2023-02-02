@@ -77,7 +77,7 @@
   -- 
   -->
 
-<h1>My experience</h1>
+<!--<h1>My experience</h1>-->
 
 <!-- EXPERIENCE I -->
 <h2 align="left">Project Kujali</h2>
