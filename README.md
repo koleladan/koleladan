@@ -20,6 +20,7 @@
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koleladan" alt="koleladan" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
+### Other Contacts
 <p align="left" style="float: left;"> 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kolelaodan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Odhiambo Dan's LinkedIn" /></a> 
