@@ -119,7 +119,7 @@
 </p>
 <p>
   <!-- Add summary of your own contributions -->
-  I have developed the base architecture for the visual chatbot editor, as well as was instrumental in the design of the chatbot engine.
+ <!-- I have developed the base architecture for the visual chatbot editor, as well as was instrumental in the design of the chatbot engine.-->
 </p>
 <br/> -->
 
