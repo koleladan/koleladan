@@ -62,7 +62,7 @@
 <!--🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)-->
 
 <!-- TODO: Update at the end of every day with your  -->
-🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
+<!--🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!-->
 
 👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta) --> -->
 
