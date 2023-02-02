@@ -113,7 +113,7 @@
 ### Technologies and Tools
 
 <p style="margin-top:10px"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kotlin-0077B5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Odhiambo Dan's kotlin"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src=" https://img.shields.io/badge/Android-0077B5?style=for-the-badge&logo=android&logoColor=white  " alt="android"/> </a> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src=" https://img.shields.io/badge/Android-0077B5?style=for-the-badge&logo=android&logoColor=white  " alt="android"/> </a> <span>&nbsp;</span>
 <!-- END: EXPERIENCE I -->
 
 #
