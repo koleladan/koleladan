@@ -30,7 +30,14 @@
   <span>&nbsp;</span>
   <!-- Stack overflow -->
   <!--<a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/gmail-FE7A16?logo=gmail&logoColor=white&style=for-the-badge)" alt="Odhiambo Dan's Gmail" /></a> -->
+<!-- Section: GITHUB OVERVIEW -->
+#
 
+<h2 align="left">My GitHub Overview</h2>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p>
+
+<!-- END -->
   <!-- Other badges -->
   <!-- 
   <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a>  -->
@@ -141,14 +148,7 @@
 
 <!-- END: EXPERIENCE I -->
 
-<!-- Section: GITHUB OVERVIEW -->
-#
 
-<h2 align="left">My GitHub Overview</h2>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p>
-
-<!-- END -->
 
 
 
