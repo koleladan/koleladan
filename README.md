@@ -14,7 +14,7 @@
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
 <h3 align="left">An Android Developer(Kotlin)</h3>
-
+... currently learning compose ...
 <br/>
 
 <center>
@@ -127,7 +127,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
  
 </p>
-#
 <!-- EXPERIENCE II -->
 <!--<h2 align="left">Project Elewa</h2>
 
