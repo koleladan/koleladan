@@ -17,7 +17,14 @@
 
 <br/>
 
-<!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koleladan" alt="koleladan" /></a> </p>
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=koleladan&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koleladan&hide=html&layout=compact&theme=dark" /></td>      
+    </tr>   
+  </table>
+</center>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 ### Other Contacts
