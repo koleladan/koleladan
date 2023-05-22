@@ -15,7 +15,7 @@
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
 <h3 align="left">An Android Developer(Kotlin)</h3>
 
-Currently learning Jetpack Compose ...
+Currently mastering Jetpack Compose ...
 
 Open to collaborating on interesting and innovative projects.
 
