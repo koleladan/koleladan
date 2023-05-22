@@ -14,7 +14,14 @@
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
 <h3 align="left">An Android Developer(Kotlin)</h3>
+
 ... currently learning compose ...
+
+Open to collaborating on interesting and innovative projects.
+
+
+
+
 <!--<br/>-->
 
 
