@@ -13,7 +13,7 @@
 <h1 align="left">Hi 👋, I'm Odhiambo Dan</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="left">An Android Developer(Kotlin)</h3>
+<h3 align="left">An Android Developer(Kotlin/Java)</h3>
 
 Currently mastering Jetpack Compose ...
 
