@@ -16,6 +16,7 @@
 <h3 align="left">An Android Developer(Kotlin/Java)</h3>
 
 Currently mastering Typescript ...
+<br><br>
 
 Open to collaborating on interesting and innovative projects.
 
