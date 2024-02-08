@@ -15,7 +15,7 @@
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
 <h3 align="left">An Android Developer(Kotlin/Java)</h3>
 
-Currently mastering Typscript ...
+Currently mastering Typescript ...
 
 Open to collaborating on interesting and innovative projects.
 
@@ -136,6 +136,7 @@ Open to collaborating on interesting and innovative projects.
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  
 </p>
 <!-- EXPERIENCE II -->
