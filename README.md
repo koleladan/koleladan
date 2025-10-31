@@ -13,10 +13,10 @@
 <h1 align="left">Hi 👋, I'm Odhiambo Dan</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="left">A Software Developer(Kotlin/Java/python/javascript/React/Typescript)</h3>
+<h3 align="left">A Data Analyst| Business Analyst| Software Developer</h3>
 <br><br>
 
-Currently mastering Typescript ...
+Currently mastering Power BI ...
 <br><br>
 
 Open to collaborating on interesting and innovative projects.
@@ -76,7 +76,7 @@ Open to collaborating on interesting and innovative projects.
 
 💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
 
-📄 Know about my experiences [through my CV](about/resume.md)
+📄 Know about my experiences [through my CV](about/resumsdtfre.md)
 
 🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
 
@@ -133,6 +133,8 @@ Open to collaborating on interesting and innovative projects.
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="30"/>
+  
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <!--<img src="https://img.shields.io/badge/Dart-09C5D6?&style=for-the-badge&logo=kotlin&logoColor=white" height="30"/>-->
   <!--<img src="https://img.shields.io/badge/Flutter-0f60d1?&style=for-the-badge&logo=kotlin&logoColor=white" height="30"/>-->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30"/>
