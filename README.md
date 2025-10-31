@@ -142,7 +142,7 @@ Open to collaborating on interesting and innovative projects.
   <!--<img src="https://img.shields.io/badge/Dart-09C5D6?&style=for-the-badge&logo=kotlin&logoColor=white" height="30"/>-->
   <!--<img src="https://img.shields.io/badge/Flutter-0f60d1?&style=for-the-badge&logo=kotlin&logoColor=white" height="30"/>-->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30"/>
- <img scr="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height ="30"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
   
